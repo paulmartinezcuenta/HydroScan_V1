@@ -1,0 +1,15 @@
+# KiCad temporales
+*.kicad_prl
+*.lck
+*.bak
+*-backups/
+
+# Historial y backups
+.history/
+_restore_backup_*/
+
+# VS Code
+.vscode/
+
+# Caché KiCad
+fp-info-cache
