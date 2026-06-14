@@ -13852,6 +13852,18 @@
 		)
 		(uuid "26e45ff8-fe53-4de1-9319-1b94c07af648")
 	)
+	(label "SW2"
+		(at 638.81 314.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "2848521e-d44a-4207-b5f9-927dc42f263c")
+	)
 	(label "VAC1"
 		(at 695.96 278.13 0)
 		(effects
