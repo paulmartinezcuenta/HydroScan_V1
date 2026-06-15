@@ -21610,7 +21610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42ae7760-6000-43c0-a2c6-5b786a0e20f1")
-		(property "Reference" "RESET"
+		(property "Reference" "RESET1"
 			(at 113.03 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -21690,7 +21690,7 @@
 		(instances
 			(project "HydroScan_V1"
 				(path "/5017cb5d-eb32-4723-8271-7ee6dfdf0b58"
-					(reference "RESET")
+					(reference "RESET1")
 					(unit 1)
 				)
 			)
@@ -32864,7 +32864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1b1fe31-a43b-446b-bad1-bc641fda5be1")
-		(property "Reference" "BOOT"
+		(property "Reference" "BOOT1"
 			(at 114.3 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -32944,7 +32944,7 @@
 		(instances
 			(project "HydroScan_V1"
 				(path "/5017cb5d-eb32-4723-8271-7ee6dfdf0b58"
-					(reference "BOOT")
+					(reference "BOOT1")
 					(unit 1)
 				)
 			)
