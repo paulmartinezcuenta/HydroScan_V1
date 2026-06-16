@@ -7788,7 +7788,7 @@
 	)
 	(rectangle
 		(start 179.07 229.87)
-		(end 257.81 283.21)
+		(end 259.08 283.21)
 		(stroke
 			(width 0)
 			(type default)
@@ -7824,7 +7824,7 @@
 	)
 	(rectangle
 		(start 179.07 219.71)
-		(end 257.81 229.87)
+		(end 259.08 229.87)
 		(stroke
 			(width 0)
 			(type default)
@@ -7945,7 +7945,7 @@
 	)
 	(rectangle
 		(start 440.69 63.5)
-		(end 509.27 194.31)
+		(end 509.27 154.94)
 		(stroke
 			(width 0)
 			(type default)
@@ -8018,7 +8018,7 @@
 		(uuid "4438a893-48ab-43a2-9eba-c8de58ae83c2")
 	)
 	(rectangle
-		(start 257.81 219.71)
+		(start 259.08 219.71)
 		(end 336.55 229.87)
 		(stroke
 			(width 0)
@@ -8052,6 +8052,18 @@
 			(type none)
 		)
 		(uuid "531719ff-dff5-4679-9df9-bc759b55fe56")
+	)
+	(rectangle
+		(start 440.69 320.04)
+		(end 610.87 424.18)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5429bfed-acec-41ee-9f4f-41da426483cc")
 	)
 	(rectangle
 		(start 511.81 77.47)
@@ -8103,7 +8115,7 @@
 	)
 	(rectangle
 		(start 17.78 64.77)
-		(end 257.81 218.44)
+		(end 256.54 218.44)
 		(stroke
 			(width 0.0762)
 			(type solid)
@@ -8163,7 +8175,7 @@
 		(uuid "7025cc26-a08d-4bdd-833e-e1a171c24e94")
 	)
 	(rectangle
-		(start 257.81 229.87)
+		(start 259.08 229.87)
 		(end 336.55 283.21)
 		(stroke
 			(width 0)
@@ -8284,6 +8296,18 @@
 		(uuid "b06711f1-644a-4a78-ae8a-a988e8f97f1d")
 	)
 	(rectangle
+		(start 440.69 424.18)
+		(end 610.87 528.32)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "b6849c04-6230-4004-bcd2-f397ac5e6c2b")
+	)
+	(rectangle
 		(start 697.23 66.04)
 		(end 756.92 154.94)
 		(stroke
@@ -8308,7 +8332,7 @@
 		(uuid "c075773e-dfbd-4ff4-8691-93dcfd0aab30")
 	)
 	(rectangle
-		(start 181.61 67.31)
+		(start 179.07 67.31)
 		(end 256.54 77.47)
 		(stroke
 			(width 0)
@@ -8402,6 +8426,18 @@
 			(type none)
 		)
 		(uuid "f7fcabf6-b1ca-43d8-b502-42cc690f2b52")
+	)
+	(text "Periferia Botones"
+		(exclude_from_sim no)
+		(at 516.636 434.086 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "048ccb61-ea5a-4043-bc33-94b3729a191d")
 	)
 	(text "MOTOR__DRIVER"
 		(exclude_from_sim no)
@@ -8501,9 +8537,9 @@
 		)
 		(uuid "1d35e047-2920-4adb-8c80-c48fd67dc515")
 	)
-	(text "SPLORATION_SEAN\n"
+	(text "HYDROSCAN_V1"
 		(exclude_from_sim no)
-		(at 195.58 30.48 0)
+		(at 207.772 33.274 0)
 		(effects
 			(font
 				(size 12.7 12.7)
@@ -8562,6 +8598,18 @@
 			(justify left)
 		)
 		(uuid "45a4a7a8-49c2-4d68-a324-f3e868bfb07b")
+	)
+	(text "Nota:\nBarra indicado nivel de bateria.\nindicador de latidos, aun no esta definido.\n"
+		(exclude_from_sim no)
+		(at 445.77 353.314 0)
+		(effects
+			(font
+				(size 2.286 2.286)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "48bae5c3-1a56-4e0c-a83c-5dde99f7cc42")
 	)
 	(text "COMPLICADO\n"
 		(exclude_from_sim no)
@@ -8760,6 +8808,18 @@
 		)
 		(uuid "8c297f8d-5dc9-49f9-a685-8a876d007850")
 	)
+	(text "Pantalla info"
+		(exclude_from_sim no)
+		(at 476.504 340.106 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "8d09d5b1-071d-40d0-b594-36ab062a33d1")
+	)
 	(text "CARGADOR_BAT 14.2V"
 		(exclude_from_sim no)
 		(at 718.058 202.438 0)
@@ -8796,6 +8856,18 @@
 			)
 		)
 		(uuid "abd694fe-f4b9-4197-a733-4fe52b3999f1")
+	)
+	(text "Pantalla"
+		(exclude_from_sim no)
+		(at 517.144 326.644 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "ae26de6d-d9cb-4383-ad4b-2365b04d3d3e")
 	)
 	(text "Cerebro"
 		(exclude_from_sim no)
@@ -8846,6 +8918,18 @@
 			(justify left)
 		)
 		(uuid "b24f4179-abe2-4a6c-8b83-51ad9709f3d3")
+	)
+	(text "Nota problemas:\n/Comunicacion\n/Alimentacion \n/bateria"
+		(exclude_from_sim no)
+		(at 326.136 166.878 0)
+		(effects
+			(font
+				(size 2.286 2.286)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "b3360475-1384-4a96-96cc-81660a8c9db8")
 	)
 	(text "AMBU"
 		(exclude_from_sim no)
@@ -12777,6 +12861,16 @@
 			(type default)
 		)
 		(uuid "cfb5689e-78bd-4869-8801-65b14c22a03b")
+	)
+	(wire
+		(pts
+			(xy 781.05 153.67) (xy 778.51 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0e8059a-006f-4be5-a5d6-1b6195a81bad")
 	)
 	(wire
 		(pts
@@ -23198,7 +23292,7 @@
 	)
 	(symbol
 		(lib_id "Mis_creaciones:PH-4502C")
-		(at 54.61 247.65 0)
+		(at 55.88 243.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23209,7 +23303,7 @@
 		(fields_autoplaced yes)
 		(uuid "51a63769-d6fb-456f-b0ac-9a080ae865e3")
 		(property "Reference" "PH_sensor1"
-			(at 56.515 243.84 0)
+			(at 57.785 240.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23219,7 +23313,7 @@
 			)
 		)
 		(property "Value" "PH-4502C"
-			(at 56.515 246.38 0)
+			(at 57.785 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23229,7 +23323,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 247.65 0)
+			(at 55.88 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23240,7 +23334,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 247.65 0)
+			(at 55.88 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23251,7 +23345,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 247.65 0)
+			(at 55.88 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24873,7 +24967,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 778.51 153.67 90)
+		(at 781.05 153.67 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -24884,7 +24978,7 @@
 		(dnp no)
 		(uuid "604a685c-dd99-4843-8dac-1a34c2dd80ec")
 		(property "Reference" "#PWR0145"
-			(at 784.86 153.67 0)
+			(at 787.4 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24895,7 +24989,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 783.59 153.67 90)
+			(at 786.13 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24905,7 +24999,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 778.51 153.67 0)
+			(at 781.05 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24916,7 +25010,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 778.51 153.67 0)
+			(at 781.05 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24927,7 +25021,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 778.51 153.67 0)
+			(at 781.05 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
