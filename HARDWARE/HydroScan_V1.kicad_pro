@@ -699,7 +699,7 @@
         "uuid": "5017cb5d-eb32-4723-8271-7ee6dfdf0b58"
       }
     ],
-    "used_designators": "R29,#PWR38,#PWR95-96",
+    "used_designators": "#PWR97-99,D7-8,R26,R30-31,LED18,C39,C58",
     "variants": []
   },
   "sheets": [
