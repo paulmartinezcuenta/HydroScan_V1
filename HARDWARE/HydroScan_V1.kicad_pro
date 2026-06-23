@@ -699,7 +699,7 @@
         "uuid": "5017cb5d-eb32-4723-8271-7ee6dfdf0b58"
       }
     ],
-    "used_designators": "",
+    "used_designators": "VCC_Motor1,M_N2-3,#PWR5-6,#PWR24,#PWR28,#PWR50-52,#PWR86-87,#PWR89,#PWR98,#PWR102-109,R16,C25,C27-30,C39,C55-57,H2,NT1",
     "variants": []
   },
   "sheets": [
