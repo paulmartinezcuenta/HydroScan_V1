@@ -1,4 +1,6 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "fluprint") (type "KiCad") (uri "C:/Users/Paul Martinez/Music/fluprint.pretty") (options "") (descr ""))
+	(lib (name "images") (type "KiCad") (uri "${KIPRJMOD}/images.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/images.pretty/Library.pretty") (options "") (descr ""))
 )
