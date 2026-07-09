@@ -4,7 +4,7 @@ HydroScan V1 is a smart marine buoy designed for real-time water quality monitor
 
 The system integrates multiple sensors to measure key environmental parameters, including:
 
-* Water pH
+* Water pH////////
 * Salinity
 * Water temperature
 
