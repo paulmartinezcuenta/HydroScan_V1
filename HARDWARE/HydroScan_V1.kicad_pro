@@ -162,7 +162,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.45,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -699,7 +699,7 @@
         "uuid": "5017cb5d-eb32-4723-8271-7ee6dfdf0b58"
       }
     ],
-    "used_designators": "JP4-5,#PWR12,#PWR17,#PWR137,#PWR140,#FLG6,LED1-2,RUN1-2,USB3,3.3V1,BAT1,SW1,SW5",
+    "used_designators": "R1,R42-43,GND4,TP1-2,#PWR141,#PWR143,#PWR146-147,JP6-7,BATTERY2",
     "variants": []
   },
   "sheets": [
