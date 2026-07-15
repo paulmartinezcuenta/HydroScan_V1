@@ -699,7 +699,7 @@
         "uuid": "5017cb5d-eb32-4723-8271-7ee6dfdf0b58"
       }
     ],
-    "used_designators": "R1,R42-43,GND4,TP1-2,#PWR141,#PWR143,#PWR146-147,JP6-7,BATTERY2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
