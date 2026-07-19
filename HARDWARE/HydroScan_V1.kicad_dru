@@ -1,0 +1,4 @@
+(version 1)
+(rule "IPC-2221 Aislamiento DC"
+    (constraint clearance (min 0.25mm))
+    (condition "A.NetName == 'V_DC' && B.NetName == 'GND'"))
