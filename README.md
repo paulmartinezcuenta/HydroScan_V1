@@ -9,7 +9,7 @@ The system integrates multiple sensors to measure key environmental parameters, 
 
 Collected data is processed by an embedded controller and transmitted wirelessly through RF communication for remote monitoring and analysis.
 
-## Main Features
+## Main Features:
 
 * Real-time environmental monitoring
 * RF telemetry communication
@@ -17,7 +17,7 @@ Collected data is processed by an embedded controller and transmitted wirelessly
 * Modular sensor architecture
 * Designed for marine deployments
 
-## Applications
+## Applications:
 
 * Coastal monitoring
 * Marine research
