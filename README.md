@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Mechatronics & IoT Engineering Projects
+#  Mechatronics & IoT Engineering Projects
 
 *Centralized repository for the development of unified embedded systems.*
 
