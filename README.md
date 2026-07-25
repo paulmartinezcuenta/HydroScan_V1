@@ -21,12 +21,15 @@
 **Smart buoy for real-time water quality monitoring.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sensor-pH-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telecom-LTE-FF8C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-GPS-D83B01?style=flat-square" />
   <img src="https://img.shields.io/badge/Sensor-Salinity-00B294?style=flat-square" />
-  <img src="https://img.shields.io/badge/Telecom-RF-FF8C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power-Solar_Panels-FFD700?style=flat-square" />
 </p>
 
-* 📡 **Telemetry:** Environmental data transmission via radio frequency.
+* 📡 **Telemetry:** Real-time environmental data transmission via LTE networks.
+* 📍 **Tracking:** Integrated GPS geolocation for precise positioning of the node.
+* 🔋 **Power:** Self-sustaining energy system utilizing solar panels to charge and monitor the sensors autonomously.
 * 🔬 **Application:** Oceanographic research and environmental monitoring in coastal areas.
 * 📁 [**Explore HydroScan Firmware ➔**](./Firmware_HydroScan)
 
@@ -36,13 +39,15 @@
 **Automated respiratory assistance system.**
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Actuator-DC_Motor_w/_Encoder-FFB900?style=flat-square" />
   <img src="https://img.shields.io/badge/Driver-L298N-D83B01?style=flat-square" />
-  <img src="https://img.shields.io/badge/Actuators-Steppers/DC-FFB900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power-USB_Fast_Charging-00A6CE?style=flat-square" />
   <img src="https://img.shields.io/badge/Doc-Thesis_Chapter-107C10?style=flat-square" />
 </p>
 
-* 🧠 **Base Control:** Centralized control architecture on the microcontroller.
-* 🌡️ **Hardware:** Dedicated thermal management for continuous and safe operation.
+* ⚙️ **Actuation & Control:** Precision mechanical control using a DC motor equipped with an encoder and driven by an L298N H-bridge.
+* ⚡ **Power Management:** USB Super Fast Charging architecture designed to simultaneously power the circuitry and charge the system.
+* 🧠 **Architecture:** Centralized ESP32 32U control logic with dedicated thermal management for continuous and safe operation.
 * 📁 [**Explore AUTOAMBU Firmware ➔**](./Firmware_AUTOAMBU)
 
 ---
