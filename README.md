@@ -5,7 +5,7 @@
 *Centralized repository for the development of unified embedded systems.*
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-2ea44f?style=for-the-badge&logo=github)](https://github.com/)
-[![Hardware](https://img.shields.io/badge/EDA-KiCad_8-314CB6?style=for-the-badge&logo=kicad)](https://www.kicad.org/)
+[![Hardware](https://img.shields.io/badge/EDA-KiCad_10-314CB6?style=for-the-badge&logo=kicad)](https://www.kicad.org/)
 [![MCU](https://img.shields.io/badge/MCU-ESP32_32U-E7352C?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
 [![Manufacturing](https://img.shields.io/badge/PCB-Panelized-00A6CE?style=for-the-badge)](https://github.com/)
 
