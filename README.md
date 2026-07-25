@@ -17,7 +17,7 @@
 
 ---
 
-## 🌊 Project 1: HydroScan (Maritime IoT Node)
+##  Project 1: HydroScan (Maritime IoT Node)
 **Smart buoy for real-time water quality monitoring.**
 
 <p align="center">
