@@ -11325,7 +11325,7 @@
 	)
 	(text "Listo\n"
 		(exclude_from_sim no)
-		(at 118.872 138.43 0)
+		(at 91.948 145.796 0)
 		(effects
 			(font
 				(size 4.826 4.826)
@@ -25411,7 +25411,7 @@
 		(dnp no)
 		(uuid "4d88d114-6caf-4a74-9ab4-a90c29affc9e")
 		(property "Reference" "H5.2"
-			(at 149.606 116.84 0)
+			(at 148.59 116.078 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27665,7 +27665,7 @@
 		(dnp no)
 		(uuid "60d26752-e3db-42d6-829d-4f78f5c8e9a0")
 		(property "Reference" "H5.1"
-			(at 109.22 115.5699 0)
+			(at 107.95 116.586 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
