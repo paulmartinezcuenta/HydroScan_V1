@@ -18,7 +18,7 @@
 ---
 
 ##  Project 1: HydroScan (Maritime IoT Node)
-**Smart buoy for real-time water quality monitoring.**
+**Smart buoy for real-time water quality monitoring.***
 
 <p align="center">
   <img src="https://img.shields.io/badge/Telecom-LTE-FF8C00?style=flat-square" />
