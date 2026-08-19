@@ -54,7 +54,7 @@
 
 ## 👥 Development Team
 
-* ⚡ **Paul** - Hardware Design and PCB Routing (Panelization)
+* ⚡ **Paul** - Hardware Design and PCB Routing 
 * 🏗️ **Miguel** - Structural 3D Design
 * 💻 **Isaias** - Firmware Development
 * 💻 **Alberto** - Firmware Development
