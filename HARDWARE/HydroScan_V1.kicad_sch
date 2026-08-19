@@ -17194,6 +17194,16 @@
 		)
 		(uuid "1d603878-fccf-4796-a4db-107df6407506")
 	)
+	(label "CC2_1"
+		(at 541.02 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1eedd681-c9a1-47f3-bc70-d6bc4a5f8785")
+	)
 	(label "V5_1"
 		(at 487.68 134.62 0)
 		(effects
